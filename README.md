@@ -47,5 +47,5 @@ Before you begin, ensure you have the following requirements:
 This project is licensed under the MIT License - see the file for details: 
 <br>
 <br>
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/GadagojuShiva/Python-Flask-Calculator/blob/main/LICENSE.md)
 
