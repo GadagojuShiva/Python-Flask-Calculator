@@ -1,4 +1,4 @@
-# Python-Flask-Calculator
+<img src="https://img.shields.io/badge/Python-Flask%20Calculator-yellow?style=flat&logo=python&logoColor=black" alt="Python Flask Calculator" width="1000"/>
 
 A simple web-based calculator application built with Flask, featuring a centered interface within an 800x800 pixel container, adorned with a subtle shadow effect.
 
